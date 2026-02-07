@@ -18,23 +18,32 @@
 
 ## 🛠️ Tech Stack I Work With
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<td align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-1F6FEB?style=for-the-badge&logo=node.js&logoColor=white"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-1F6FEB?style=for-the-badge&logo=postgresql&logoColor=white"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-1F6FEB?style=for-the-badge&logo=mongodb&logoColor=white"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/Redis-1F6FEB?style=for-the-badge&logo=redis&logoColor=white"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/Java-1F6FEB?style=for-the-badge&logo=java&logoColor=white"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/C++-1F6FEB?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+</td>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<td align="center">
+  <a href="#"><img src="https://img.shields.io/badge/AWS-1F6FEB?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-1F6FEB?style=for-the-badge&logo=google-cloud&logoColor=white"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-1F6FEB?style=for-the-badge&logo=docker&logoColor=white"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-1F6FEB?style=for-the-badge&logo=kubernetes&logoColor=white"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/Jenkins-1F6FEB?style=for-the-badge&logo=jenkins&logoColor=white"/></a>
+</td>
 
-### 🧠 Other Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<td align="center">
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-1F6FEB?style=for-the-badge&logo=tensorflow&logoColor=white"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/PyTorch-1F6FEB?style=for-the-badge&logo=pytorch&logoColor=white"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-1F6FEB?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-1F6FEB?style=for-the-badge&logo=pandas&logoColor=white"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/Jupyter-1F6FEB?style=for-the-badge&logo=jupyter&logoColor=white"/></a><br/>
+  <a href="#"><img src="https://img.shields.io/badge/NumPy-1F6FEB?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+</td>
 
 ---
 
