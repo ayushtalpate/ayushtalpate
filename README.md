@@ -17,7 +17,30 @@
 ---
 
 ## 🛠️ Tech Stack I Work With
-<table align="center"> <tr> <th>Frontend</th> <th>Backend & Databases</th> <th>Cloud & DevOps</th> <th>AI & Machine Learning</th> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/> <br/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/> <br/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/> <br/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/> <br/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </td> <td align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/> <br/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/> <br/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/> <br/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/> <br/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/> <br/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/> <br/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B"/> </td> <td align="center"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws"/> <br/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud"/> <br/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/> <br/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/> <br/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/> </td> <td align="center"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/> <br/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/> <br/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/> <br/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/> <br/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/> <br/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/> </td> </tr> </table>
+<table align="center">
+  <tr> 
+    <th>Frontend</th> 
+    <th>Backend & Databases</th> 
+    <th>Cloud & DevOps</th> 
+  </tr> 
+  <tr> 
+    <td align="center"> 
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/> <br/> 
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/> <br/> 
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+    </td> 
+    <td align="center"> 
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/> <br/> 
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/> <br/> 
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/> <br/> 
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/> <br/> 
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/> <br/> 
+    </td> 
+    <td align="center"> 
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/> <br/> 
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/> 
+    </td> 
+    </tr> </table>
 
 ---
 
