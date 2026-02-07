@@ -1,7 +1,8 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F55540&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayush+Talpate+👋;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Real+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayush+Talpate+👋;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Real+Products" />
 </p>
+
 
 ---
 
