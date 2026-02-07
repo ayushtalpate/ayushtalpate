@@ -17,6 +17,7 @@
 ---
 
 ## 🛠️ Tech Stack I Work With
+<table align="center"> <tr> <th align="center">Frontend</th> <th align="center">Backend & Databases</th> <th align="center">Cloud & DevOps</th> <th align="center">AI & Machine Learning</th> </tr> <tr> <td align="center"> <a href="#"><img src="https://img.shields.io/badge/React-1F6FEB?style=for-the-badge&logo=react&logoColor=white"/></a><br/> <a href="#"><img src="https://img.shields.io/badge/Next.js-1F6FEB?style=for-the-badge&logo=next.js&logoColor=white"/></a><br/> <a href="#"><img src="https://img.shields.io/badge/TypeScript-1F6FEB?style=for-the-badge&logo=typescript&logoColor=white"/></a><br/> <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-1F6FEB?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a><br/> <a href="#"><img src="https://img.shields.io/badge/JavaScript-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white"/></a> </td>
 
 <td align="center">
   <a href="#"><img src="https://img.shields.io/badge/Node.js-1F6FEB?style=for-the-badge&logo=node.js&logoColor=white"/></a><br/>
@@ -44,6 +45,9 @@
   <a href="#"><img src="https://img.shields.io/badge/Jupyter-1F6FEB?style=for-the-badge&logo=jupyter&logoColor=white"/></a><br/>
   <a href="#"><img src="https://img.shields.io/badge/NumPy-1F6FEB?style=for-the-badge&logo=numpy&logoColor=white"/></a>
 </td>
+
+</tr>
+</table>
 
 ---
 
